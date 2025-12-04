@@ -54,6 +54,7 @@ export default function Navigation({ dict, lang }: { dict: any; lang?: string })
         { code: 'en', name: 'English', flag: '🇬🇧' },
         { code: 'es', name: 'Español', flag: '🇪🇸' },
         { code: 'zh', name: '中文', flag: '🇨🇳' },
+        { code: 'hi', name: 'हिन्दी', flag: '🇮🇳' },
     ];
 
     const currentLanguage = languages.find(lang => lang.code === currentLang) || languages[0];
@@ -65,7 +66,7 @@ export default function Navigation({ dict, lang }: { dict: any; lang?: string })
         }
         
         // Извлекаем путь без языка
-        const pathWithoutLang = pathname.replace(/^\/(ru|en|es|zh)/, '') || '/';
+        const pathWithoutLang = pathname.replace(/^\/(ru|en|es|zh|hi)/, '') || '/';
         
         // Сохраняем текущий хеш (якорь), если есть
         const hash = typeof window !== 'undefined' ? window.location.hash : '';
