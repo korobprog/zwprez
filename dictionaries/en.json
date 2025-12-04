@@ -1,0 +1,305 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "structure": "Structure",
+        "clusters": "Clusters",
+        "regional": "Regions",
+        "local": "ZW&US Local",
+        "benefits": "Benefits",
+        "pilot": "Pilot",
+        "contact": "Contact",
+        "switchTo": "Switch to"
+    },
+    "hero": {
+        "title": "ZW&US CIVILIZATION HOLDING",
+        "subtitle": "Planetary Circular Economy System",
+        "description": "A global integrated circular economy system designed for regions and local territories, combining waste processing, material production, energy, innovation, logistics, agro-systems, education and social programs into a single managed ecosystem.",
+        "mission": "Mission: to create a self-sufficient, zero-waste and socially just civilization.",
+        "principle": "Zero Waste → Zero Harm → Zero Poverty",
+        "cta": "Learn More"
+    },
+    "about": {
+        "title": "Who We Are",
+        "description": "ZW&US Civilization is a multi-level civilizational infrastructure for sustainable development. We combine Zero Waste technologies, social economy and production into a single closed-loop model.",
+        "chain": "We create a complete chain: from waste collection to finished materials, agricultural products and energy.",
+        "conclusion": "This is an integrated system that forms a new economy for territories.",
+        "sections": "Sections",
+        "zeroWaste": "Zero Waste",
+        "globalManagement": "Global Management",
+        "strategicOperational": "Strategic & Operational"
+    },
+    "structure": {
+        "title": "Management and Team",
+        "description": "Dual management model: ZW&US Global Management Company and Zero Waste Earth Alliance Foundation.",
+        "roles": [
+            {
+                "title": "CEO",
+                "desc": "Strategic development, international partnerships, legal responsibility."
+            },
+            {
+                "title": "COO",
+                "desc": "Operational activities, regional coordination, KPI control."
+            },
+            {
+                "title": "CFO",
+                "desc": "Budget, financial reporting, investment programs."
+            },
+            {
+                "title": "CTO",
+                "desc": "Technology architecture, equipment, production standards."
+            },
+            {
+                "title": "CLO",
+                "desc": "Legal protection, licenses, regulatory compliance."
+            },
+            {
+                "title": "CSO",
+                "desc": "Environmental safety, climate parameters."
+            },
+            {
+                "title": "Chief Architect",
+                "desc": "Ecosystem architecture, solution standardization."
+            },
+            {
+                "title": "Director of AI",
+                "desc": "Digital platform, analytics, ERP management."
+            }
+        ]
+    },
+    "clusters": {
+        "title": "Operational System (Clusters A-F)",
+        "list": [
+            {
+                "id": "A",
+                "name": "Recycling & MRF Infrastructure",
+                "desc": "Collection, sorting, waste preparation, visual quality control of raw materials, extraction of secondary materials and RDF production. RDF fuel (refuse-derived fuel, fuel derived from waste)"
+            },
+            {
+                "id": "B",
+                "name": "RPC Manufacturing",
+                "desc": "Production of RPC building composites from RDF and polymer components, production of panels, beams, load-bearing structures."
+            },
+            {
+                "id": "C",
+                "name": "Biomass & Agro Systems",
+                "desc": "Restoration of food and construction forests across the entire surface of the Earth, restoration of all water systems of the planet."
+            },
+            {
+                "id": "D",
+                "name": "Logistics & Operations",
+                "desc": "RDF and finished product logistics, transport flows, warehousing, distribution, facility maintenance."
+            },
+            {
+                "id": "E",
+                "name": "R&D and Engineering",
+                "desc": "Development of new technologies, improvement of composites, increased equipment efficiency, line standardization."
+            },
+            {
+                "id": "F",
+                "name": "Education & Social Systems",
+                "desc": "Colleges, training programs, social employment programs, community support, emergency services."
+            }
+        ]
+    },
+    "regional": {
+        "title": "Regional Systems",
+        "items": [
+            "Regional management company",
+            "Mass production plant for RPC equipment, equipment for seedling production, building materials production",
+            "Group of construction companies for infrastructure, buildings and furniture production",
+            "Network of 4-12 MRF regional centers",
+            "Training centers and Zero Waste Colleges",
+            "Regional logistics system",
+            "Quality laboratories",
+            "Regional agro-system",
+            "Investment and infrastructure programs"
+        ]
+    },
+    "local": {
+        "title": "ZW&US Local",
+        "subtitle": "Basic civilization unit (for 200 thousand residents)",
+        "populationCoverage": "Population Coverage",
+        "items": [
+            "MRF center - waste sorting, preparation and temporary storage of raw materials",
+            "RPC line - building materials production",
+            "Micro energy stations - biogas, solar solutions, diesel",
+            "Zero Waste school - local education and employment of all local population",
+            "Environmental control systems, public environmental control",
+            "Center for restoration of rivers, lakes and food and construction forests, with food production and storage",
+            "Culture and Creativity Center",
+            "Health Prevention Center",
+            "Emergency response unit - emergency services"
+        ]
+    },
+    "benefits": {
+        "title": "System Benefits",
+        "cards": [
+            {
+                "title": "Complete Ecosystem",
+                "desc": "ZW&US is not a factory or an industry. It is a full-fledged ecosystem of production, processing, energy, education and social economy, united by a single technology and management platform. Each element strengthens the other: processing creates materials → production creates infrastructure → agro-system creates biomass → food and water → reduces costs → education creates personnel → employment forms social sustainability."
+            },
+            {
+                "title": "18 Revenue Sources",
+                "desc": "The system does not depend on a single product. It forms 18 independent revenue streams: RPC materials production, Panel/board sales, Building and hangar construction, furniture, Secondary raw materials, Biomass and soil mixtures seedlings, Technology licensing, Educational programs, Modular space rental, Contract processing, Carbon credits and environmental certificates, Food production, Dairy production, Eco-tourism, Land reclamation and extraction of precious, non-ferrous, rare earth metals, Dispatch services, freight and cargo transportation, Territory greening, Ecosystem and facility design, Health prevention, And much more. This creates financial stability regardless of external crises."
+            },
+            {
+                "title": "Circular Economy",
+                "desc": "In ZW&US, waste is not destroyed - it is transformed into resources with maximum value for nature and humans. The complete cycle looks like this: Waste collection & RDF → sorting → temporary storage → mobile shredding → RPC composites → panels and beams → infrastructure construction → agro-system → food and water → reuse of waste and resources. No element leaves the system. This ensures Zero Waste and Zero Harm."
+            },
+            {
+                "title": "Ultra-Low Cost",
+                "desc": "The cost of all materials and products in the ZW&US system is significantly lower than market prices due to: own raw materials (RDF + organic waste), no waste disposal costs, local energy, no long-distance logistics, modular production, high level of automation. This allows producing building materials cheaper than traditional enterprises."
+            },
+            {
+                "title": "Scalability",
+                "desc": "The ZW&US model is standardized and can be deployed on any territory: city, municipality, industrial hub, agricultural zone, mountain region, region. The technology is designed for scaling to 49,000 territories on the planet within the framework of the planetary sustainable development program."
+            }
+        ],
+        "expand": "Read More",
+        "collapse": "Collapse"
+    },
+    "problem_solution": {
+        "problem": {
+            "title": "Problem We Solve",
+            "desc": "The world faces a critical waste situation: the linear economy 'take → use → throw away' has stopped working. Waste is not processed, land is polluted, landfills are growing, and regions are losing billions of dollars due to RDF incineration."
+        },
+        "solution": {
+            "title": "Solution Description",
+            "desc": "The ZW&US system includes: door-to-door dry waste collection, MRF center network, Network of cultural and educational centers, Health center network, mobile RDF shredding, RPC production, building and infrastructure construction, Construction forest production, Food production, Seedling production, Syntropic farming system, energy microgrid, educational and social blocks, digital AI management platform. This is a unified production-social cycle capable of ensuring waste-free territory development and restoring the entire natural ecosystem."
+        }
+    },
+    "pilot": {
+        "title": "Pilot Stages",
+        "costLabel": "Est. Cost",
+        "steps": [
+            {
+                "name": "Preparatory",
+                "time": "15-20 days",
+                "cost": "—"
+            },
+            {
+                "name": "Land and Permits",
+                "time": "15-20 days",
+                "cost": "1.31-2.19 million RUB"
+            },
+            {
+                "name": "Tent Factory and MRF-1",
+                "time": "30-40 days",
+                "cost": "5.26-7.01 million RUB"
+            },
+            {
+                "name": "Equipment Installation",
+                "time": "10-15 days",
+                "cost": "28.04 million RUB"
+            },
+            {
+                "name": "Staff Training",
+                "time": "18-25 days",
+                "cost": "526K - 1.05 million RUB"
+            },
+            {
+                "name": "Production Launch",
+                "time": "15-20 days",
+                "cost": "701K - 1.23 million RUB"
+            },
+            {
+                "name": "Scaling",
+                "time": "60-90 days",
+                "cost": "from 26.29 million RUB"
+            }
+        ]
+    },
+    "tech": {
+        "title": "Technology Evidence Base",
+        "technologies": [
+            "RPC composite based on HSSPC",
+            "Pressure up to 200 tons",
+            "RDF agglomeration with 98% efficiency",
+            "Syntropic agro-system"
+        ],
+        "equipment": [
+            "Extruders with capacity of 180-200 kg/hour",
+            "Shredders 250 kg/hour",
+            "MRF full manual sorting"
+        ],
+        "certification": [
+            "IS/ISO compliance",
+            "Mechanical, fire-resistant and environmental tests"
+        ],
+        "results": [
+            "200 tons RDF → 120 tons RPC",
+            "Complete absence of waste burial",
+            "CO₂ reduction of 1000+ tons per year"
+        ]
+    },
+    "economy": {
+        "title": "Pilot Economy (Naggar)",
+        "description": "Pilot project designed for 200,000 residents. Includes: RPC plant, 8 MRF centers, mobile shredding center, Syntropic farming system, educational center, Cultural center, Health Prevention Center.",
+        "kpi": [
+            "120 tons/month waste → 100% processing and modular house construction",
+            "206 jobs",
+            "1000+ tons CO₂ reduction"
+        ],
+        "stats": [
+            {
+                "label": "Investment",
+                "value": "114-219 million RUB"
+            },
+            {
+                "label": "Gross Income",
+                "value": "23.66 million RUB/month"
+            },
+            {
+                "label": "Net Profit",
+                "value": "~10.52 million RUB/month"
+            },
+            {
+                "label": "ROI (operational)",
+                "value": "4.7 months"
+            },
+            {
+                "label": "ROI (full)",
+                "value": "24 months"
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "Development Plan and Scaling",
+        "development": [
+            "MRF network expansion",
+            "RPC capacity increase",
+            "Zero Waste College creation",
+            "Scaling to neighboring regions",
+            "Regional cluster creation",
+            "International CE certification"
+        ],
+        "scaling": [
+            "Pilots",
+            "Regional clusters",
+            "National network",
+            "International model",
+            "Planetary ZW&US Civilization architecture"
+        ],
+        "note": "The system is designed for 49,000 territories across the planet with implementation in all countries"
+    },
+    "contact": {
+        "title": "Contact",
+        "organization": "Zero Waste & я Unemployment System Initiative",
+        "phone": "+91-74-7749-7749",
+        "email": "zwus.civilisation@gmail.com",
+        "messengers": "WhatsApp, Telegram, IMO",
+        "copyright": "All rights reserved",
+        "cta": {
+            "title": "Start With Us",
+            "messages": [
+                "Creating sustainable economy for your region",
+                "Transforming waste into resources and opportunities",
+                "Restoring natural ecosystems",
+                "Shaping the future for next generations"
+            ],
+            "offer": "Ready to launch a ZW&US pilot system in your territory? Contact us to discuss details.",
+            "welcome": "Join the Zero Waste movement."
+        }
+    }
+}
